@@ -1,5 +1,6 @@
 ### Hi there, im Shay Belayneh 👋
 - 🌱 I’m currently learning full stack developer...
+- 🔭 Evolving and learning new things every day.
 - 🔨 Languages And Tools
        
        FRONT-END: HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACT.
