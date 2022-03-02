@@ -4,7 +4,7 @@
 - 🔨 Languages And Tools
        
        FRONT-END: HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACT.
-       BACK-END: C#,.NET MVC,WEB API,SQL,NODE JS,MongoDB
+       BACK-END: C#,.NET MVC,WEB API,SQL,NODE JS,MongoDB.
 
 
 📬 Contact Me:
