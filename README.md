@@ -3,10 +3,13 @@
 - 🔭 Evolving and learning new things every day.
 - 🔨 Languages And Tools
        
-     Front-end: HTML5 , CSS3 , JAVASCRIPT , ES6 , TYPESCRIPT , REACTJS , REACT HOOKS , BOOTSTRAP, MUI , JEST
-     Back-end: C# , .NET MVC , ADO.NET , LINQ TO SQL , ENTITY FRAMEWORK
-     Database: SQL , MsSQL , MySql , MongoDB , MONGOOSE
-     Clouds: Azure , Heroku
+     Front-end: HTML5 , CSS3 , JAVASCRIPT , ES6 , TYPESCRIPT , REACTJS , REACT HOOKS , BOOTSTRAP, MUI , JEST.
+     
+     Back-end: C# , .NET MVC , ADO.NET , LINQ TO SQL , ENTITY FRAMEWORK.
+     
+     Database: SQL , MsSQL , MySql , MongoDB , MONGOOSE.
+     
+     Clouds: Azure , Heroku.
 
 
 📬 Contact Me:
