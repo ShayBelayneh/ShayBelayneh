@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning full stack developer...
 - 🔭 Evolving and learning new things every day.
 - 🔨 Languages And Tools
+- 
        
      Front-end: HTML5 , CSS3 , JAVASCRIPT , ES6 , TYPESCRIPT , REACTJS , REACT HOOKS , BOOTSTRAP, MUI , JEST.
      
@@ -11,6 +12,7 @@
      
      Clouds: Azure , Heroku.
 
+- ⚡ Looking for a job in the field of development
 
 📬 Contact Me:
 
